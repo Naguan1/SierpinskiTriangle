@@ -28,3 +28,4 @@ public void keyPressed(){
   if(keyCode == DOWN && triangleLayers < 500){
     triangleLayers *= 4;
   }
+}
